@@ -1,0 +1,6 @@
+{
+    "aws.samcli.legacyDeploy": true,
+    "C_Cpp.default.browse.path": [
+        "${Default}"
+    ]
+}
