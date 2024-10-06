@@ -2,5 +2,8 @@
     "aws.samcli.legacyDeploy": true,
     "C_Cpp.default.browse.path": [
         "${Default}"
-    ]
+    ],
+    "amazonQ.showInlineCodeSuggestionsWithCodeReferences": false,
+    "amazonQ.telemetry": false,
+    "amazonQ.importRecommendationForInlineCodeSuggestions": false
 }
